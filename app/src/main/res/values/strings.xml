@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="name">Имя:</string>
+    <string name="surname">Фамилия:</string>
+    <string name="birthday">День рождения:</string>
+    <string name="proffesion">Профессия:</string>
+    <string name="employees_title">Сотрудники нашей компании</string>
+</resources>
